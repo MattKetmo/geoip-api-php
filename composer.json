@@ -19,9 +19,6 @@
         "src/timezone.php"
         ]
     },
-    "conflict": {
-        "ext-geoip": "*"
-    },
     "require-dev": {
         "phpunit/phpunit": "3.7.*",
         "satooshi/php-coveralls": "dev-master"
